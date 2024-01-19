@@ -1,3 +1,5 @@
+The code needs a lot of improvement but it works. ill fix it in the future
+
 # Image Processing Project
 
 This project focuses on the conversion of satellite images from bitmap (BMP) format to grayscale, incorporating specific image rotation transformations based on the input parameter N. The N parameter, taken as a command-line argument, determines the transformation applied to the image: N = 0 for no transformation, N = 1 for horizontal rotation, and N = 2 for vertical rotation.
