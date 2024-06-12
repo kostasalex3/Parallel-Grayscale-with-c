@@ -1,4 +1,4 @@
-The code needs a lot of improvement but it works. ill fix it in the future
+The code  improvement but it works. ill fix it in the future
 
 # Image Processing Project
 
